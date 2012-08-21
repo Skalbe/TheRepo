@@ -1,0 +1,13 @@
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\bin\Debug\CourtRecords.RecordsViewApp.exe
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\bin\Debug\CourtRecords.RecordsViewApp.pdb
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\bin\Debug\CourtRecords.Logic.dll
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\bin\Debug\CourtRecords.Model.dll
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\bin\Debug\CourtRecords.Logic.pdb
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\bin\Debug\CourtRecords.Model.pdb
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\obj\x86\Debug\CourtRecords.RecordsViewApp.Form1.resources
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\obj\x86\Debug\CourtRecords.RecordsViewApp.Properties.Resources.resources
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\obj\x86\Debug\CourtRecords.RecordsViewApp.exe
+D:\Projects\CourtRecords\CourtRecords.RecordsViewApp\obj\x86\Debug\CourtRecords.RecordsViewApp.pdb

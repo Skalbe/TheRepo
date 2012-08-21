@@ -1,0 +1,10 @@
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\obj\x86\Debug\CourtRecords.ConsoleTest.exe
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\obj\x86\Debug\CourtRecords.ConsoleTest.pdb
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\bin\Debug\CourtRecords.ConsoleTest.exe.config
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\bin\Debug\CourtRecords.ConsoleTest.exe
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\bin\Debug\CourtRecords.ConsoleTest.pdb
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\bin\Debug\CourtRecords.Logic.dll
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\bin\Debug\CourtRecords.Model.dll
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\bin\Debug\CourtRecords.Logic.pdb
+D:\Projects\CourtRecords\CourtRecords.ConsoleTest\bin\Debug\CourtRecords.Model.pdb

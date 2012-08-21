@@ -1,0 +1,7 @@
+D:\Projects\CourtRecords\CourtRecords.Logic\bin\Debug\CourtRecords.Logic.dll
+D:\Projects\CourtRecords\CourtRecords.Logic\bin\Debug\CourtRecords.Logic.pdb
+D:\Projects\CourtRecords\CourtRecords.Logic\bin\Debug\CourtRecords.Model.dll
+D:\Projects\CourtRecords\CourtRecords.Logic\bin\Debug\CourtRecords.Model.pdb
+D:\Projects\CourtRecords\CourtRecords.Logic\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CourtRecords\CourtRecords.Logic\obj\Debug\CourtRecords.Logic.dll
+D:\Projects\CourtRecords\CourtRecords.Logic\obj\Debug\CourtRecords.Logic.pdb
